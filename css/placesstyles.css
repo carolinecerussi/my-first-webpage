@@ -1,23 +1,25 @@
+
 title {
-  color:blueviolet;
-  text-align: center;
-  font-family: sans-serif;
+  color:red;
+  text-align:center;
+  font-family:sans-serif;
 }
 
 h1 {
-  color:green;
-  text-align: center;
-  font-family: times 'Times New Roman';
+  color:red;
+  text-align:center;
+  font-family:Times;
 }
 
 h2 {
-  color:aquamarine;
-  text-align: center;
-  font-family: Impact;
-  font-style: italic;
+  color:red;
+  text-align:center;
+  font-family:Impact;
+  font-style:italic;
 }
+
 ol {
-  font-size: 20px;
-  line-height: 30px;
-  font-family: arial;
+  font-size:20px;
+  line-height:30px;
+  font-family:arial;
 }
